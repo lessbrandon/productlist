@@ -1,26 +1,35 @@
 ## Toys
-- https://www.greentoys.com/
-- https://americanplastictoys.com/
-- https://premierwagons.com/
-- https://lappwagons.com/product/wagon-sun-top/
+  ### USA
+  - https://www.greentoys.com/
+  - https://americanplastictoys.com/
+  - https://premierwagons.com/
+  - https://lappwagons.com/product/wagon-sun-top/
+  ## Other
+  - https://www.lecreuset.com (acessories made in china)
+  
 
 ## Kitchen
-- https://grillygoat.godaddysites.com
-- https://heritagesteel.us
-- https://all-clad.com
-- https://americankitchencookware.com
+  ### USA
+  - https://grillygoat.godaddysites.com
+  - https://heritagesteel.us
+  - https://all-clad.com
+  - https://americankitchencookware.com
 
 ## Bath and Body
-- https://avsoapco.com/collections/soap
-- https://www.mystore.com
+  ### USA
+  - https://avsoapco.com/collections/soap
+  - https://www.mystore.com
 
 ## Clothing
-- https://madeinamericasockcompany.com/
-- https://www.mypillow.com/the-true-american-made-t-shirt.html
+  ### USA
+  - https://madeinamericasockcompany.com/
+    - https://www.mypillow.com/made-in-america-socks.html
+  - https://www.mypillow.com/the-true-american-made-t-shirt.html
 
 ## Camping
--https://princetontec.com/
-- https://www.mypillow.com/princeton-tec-led-helix-lantern.html
+  ### USA
+  - https://princetontec.com/
+  - https://www.mypillow.com/princeton-tec-led-helix-lantern.html
 
 ## Misc
 - https://www.mystore.com
