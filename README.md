@@ -1,36 +1,38 @@
 ## Toys
   ### USA
-  - https://www.greentoys.com/
-  - https://americanplastictoys.com/
-  - https://premierwagons.com/
-  - https://lappwagons.com/product/wagon-sun-top/
-  ## Other
-  - https://www.lecreuset.com (acessories made in china)
+  - [Green Toys](https://www.greentoys.com)
+  - [American Plastic Toys](https://americanplastictoys.com)
+  - [Berlin Flyer Wagons](https://premierwagons.com)
+  - [Lapp Wagons](https://lappwagons.com/product/wagon-sun-top/)
   
-
 ## Kitchen
   ### USA
-  - https://grillygoat.godaddysites.com
-  - https://heritagesteel.us
-  - https://all-clad.com
-  - https://americankitchencookware.com
+  - [Grilly Goat](https://grillygoat.godaddysites.com)
+  - [Heritage Steel Cookware](https://heritagesteel.us)
+  - [All Clad Cookware](https://all-clad.com)
+  - [American Kitchen Cookware](https://americankitchencookware.com)
+  ### Other
+  - [Le Crueset](https://www.lecreuset.com) (acessories made in china)
 
 ## Bath and Body
   ### USA
-  - https://avsoapco.com/collections/soap
-  - https://www.mystore.com
+  - [American Vintage Soap](https://avsoapco.com)
+  - [My Pillow](https://www.mypillow.com)
 
 ## Clothing
   ### USA
-  - https://madeinamericasockcompany.com/
-    - https://www.mypillow.com/made-in-america-socks.html
-  - https://www.mypillow.com/the-true-american-made-t-shirt.html
+  - [Made in America Sock Company](https://madeinamericasockcompany.com)
+    - [Made in America Socks @MyStore](https://www.mypillow.com/made-in-america-socks.html)
+  - [T-shirts @MyStore](https://www.mypillow.com/the-true-american-made-t-shirt.html)
 
 ## Camping
   ### USA
-  - https://princetontec.com/
-  - https://www.mypillow.com/princeton-tec-led-helix-lantern.html
+  - [Princeton Tec](https://princetontec.com)
+    - [Helix Lanern @MyStore](https://www.mypillow.com/princeton-tec-led-helix-lantern.html)
+
+## Home Security
+  - [Driveway Alert](https://drivewayalert.com)
 
 ## Misc
-- https://www.mystore.com
+- [My Store](https://www.mystore.com)
 
