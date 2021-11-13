@@ -1,14 +1,12 @@
-Coming soon... an app to promote small businesses
+Coming soon... an app to promote small businesses.  Not made in China.  No known wokeness.
 
 ## Toys
-  ### Toys made in USA
   - [Green Toys](https://www.greentoys.com)
   - [American Plastic Toys](https://americanplastictoys.com)
   - [Berlin Flyer Wagons](https://premierwagons.com)
   - [Lapp Wagons](https://lappwagons.com/product/wagon-sun-top/)
   
 ## Kitchen
-  ### Kitchen Cookware made in USA
   - [Grilly Goat](https://grillygoat.godaddysites.com)
   - [Heritage Steel Cookware](https://heritagesteel.us)
   - [All Clad Cookware](https://all-clad.com)
@@ -17,23 +15,20 @@ Coming soon... an app to promote small businesses
   - [Le Crueset](https://www.lecreuset.com) (acessories made in china)
 
 ## Bath and Body
-  ### Bath and Body items made in USA
   - [American Vintage Soap](https://avsoapco.com)
   - [My Pillow](https://www.mypillow.com)
 
 ## Clothing
-  ### CLothing made in USA
   - [Made in America Sock Company](https://madeinamericasockcompany.com)
     - [Made in America Socks @MyStore](https://www.mypillow.com/made-in-america-socks.html)
   - [T-shirts @MyStore](https://www.mypillow.com/the-true-american-made-t-shirt.html)
 
-## Camping
-  ### Camping items made in USA
+## Camping / Sporting Goods
   - [Princeton Tec](https://princetontec.com)
     - [Helix Lanern @MyStore](https://www.mypillow.com/princeton-tec-led-helix-lantern.html)
+  - [Wike (bike child trailers)](https://wicycle.com/products/bike-trailers/junior-bicycle-trailer)
 
 ## Home Security
-  ### Home Security items made in USA
   - [Driveway Alert](https://drivewayalert.com)
 
 ## Misc
