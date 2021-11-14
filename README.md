@@ -6,6 +6,10 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [Berlin Flyer Wagons](https://premierwagons.com)
   - [Lapp Wagons](https://lappwagons.com/product/wagon-sun-top/)
 
+## Child Safety
+  - [Kid Kusion](https://www.kidkusion.com)
+  - [Saftey 1st Grow and Go All in one carseat](https://www.safety1st.com/grow-and-go) (Note: Not advertised as Made in USA by manufacturer, assuming this can change at anytime)
+
 ## Furniture
   - [Sauder Woodworking](https://www.sauder.com)
 
