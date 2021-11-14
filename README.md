@@ -5,7 +5,10 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [American Plastic Toys](https://americanplastictoys.com)
   - [Berlin Flyer Wagons](https://premierwagons.com)
   - [Lapp Wagons](https://lappwagons.com/product/wagon-sun-top/)
-  
+
+## Furniture
+  - [Sauder Woodworking](https://www.sauder.com)
+
 ## Kitchen
   - [Grilly Goat](https://grillygoat.godaddysites.com)
   - [Heritage Steel Cookware](https://heritagesteel.us)
@@ -19,9 +22,9 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [My Pillow](https://www.mypillow.com)
 
 ## Clothing
-  - [Made in America Sock Company](https://madeinamericasockcompany.com)
-    - [Made in America Socks @MyStore](https://www.mypillow.com/made-in-america-socks.html)
-  - [T-shirts @MyStore](https://www.mypillow.com/the-true-american-made-t-shirt.html)
+  - [Made in America Sock Company](https://madeinamericasockcompany.com) or [here](https://www.mypillow.com/made-in-america-socks.html)
+  - [All American Clothing](https://www.allamericanclothing.com)
+  - The True American Made T-Shirt [@MyStore](https://www.mypillow.com/the-true-american-made-t-shirt.html)
 
 ## Camping / Sporting Goods
   - [Princeton Tec](https://princetontec.com)
