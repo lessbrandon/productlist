@@ -25,10 +25,11 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [American Vintage Soap](https://avsoapco.com)
   - [My Pillow](https://www.mypillow.com)
 
-## Clothing
+## Clothing / Footware
   - [Made in America Sock Company](https://madeinamericasockcompany.com) or [here](https://www.mypillow.com/made-in-america-socks.html)
   - [All American Clothing](https://www.allamericanclothing.com)
   - The True American Made T-Shirt [@MyStore](https://www.mypillow.com/the-true-american-made-t-shirt.html)
+  - [SOM Footware](https://www.somfootwear.com)
 
 ## Camping / Sporting Goods
   - [Princeton Tec](https://princetontec.com)
@@ -36,6 +37,9 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [Wike (bike child trailers)](https://wicycle.com/products/bike-trailers/junior-bicycle-trailer)
   - [Saris (bike racks and trainers)](https://www.saris.com)
   - [1up USA (bike racks)](https://www.1up-usa.com)
+
+## Automotive
+  - [Gator Truck Bed Covers](https://gatorcovers.com/about)
 
 ## Home Security
   - [Driveway Alert](https://drivewayalert.com)
