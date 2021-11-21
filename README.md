@@ -8,6 +8,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
 
 ## Child Safety
   - [Kid Kusion](https://www.kidkusion.com)
+  - [GMI Gates and Crates - Baby Gates](https://www.gmigates.com/baby-gates)
   - [Saftey 1st Grow and Go All in one carseat](https://www.safety1st.com/grow-and-go) (Note: Not advertised as Made in USA by manufacturer, assuming this can change at anytime)
 
 ## Furniture
