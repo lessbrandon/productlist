@@ -2,6 +2,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
 
 ## Automotive
   - [Gator Covers](https://gatorcovers.com/about) - Truck bed covers
+  - [Seat Covers Unlimited](https://seatcoversunlimited.com) - Automotive seat covers
 
 ## Baby products
   - [EZ Totz](https://eztotz.com/) - Teethers, Utensils, Cups, Car seat accessories
