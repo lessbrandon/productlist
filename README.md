@@ -16,6 +16,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [Wike](https://wicycle.com/products/bike-trailers/junior-bicycle-trailer) - Bike trailers, Child tow-behinds
   - [Saris](https://www.saris.com) - Bike racks and Trainers
   - [1up USA](https://www.1up-usa.com) - Bike racks
+  - [Mulibex](https://mulibex.com) - Camping gear - Veteran owned
 
 ## Child Safety
   - [Kid Kusion](https://www.kidkusion.com) - Child safety products
