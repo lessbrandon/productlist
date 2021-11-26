@@ -35,7 +35,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [The True American Made T-Shirt](https://www.mypillow.com/the-true-american-made-t-shirt.html)
   - [Capps](https://uniform.usmadeshoes.com) - Shoes (military, dress, uniform)
   - [SOM Footware](https://www.somfootwear.com)
-
+  - [New Balance*](https://www.newbalance.com/made-in-the-usa/?searchSource=american%20Made) Shoes (athletic). * Not all made in USA, look for "Made in USA collection".
 ## Furniture
   - [Sauder Woodworking](https://www.sauder.com)
 
