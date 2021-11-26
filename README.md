@@ -52,11 +52,15 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [Driveway Alert](https://drivewayalert.com)
 
 ## Kitchen
-  - [Grilly Goat](https://grillygoat.godaddysites.com) - Grill scraper/cleaner - Veteran owned
   - [Heritage Steel Cookware](https://heritagesteel.us) - Cookware
   - [All Clad Cookware](https://all-clad.com) - Cookeware
   - [American Kitchen Cookware](https://americankitchencookware.com) - Cookware
 
 ## Misc
-- [My Store](https://www.mystore.com)
+  - [My Store](https://www.mystore.com)
+
+<!-- DEFUNCT SITES
+#  - [Grilly Goat](https://grillygoat.godaddysites.com) - Grill scraper/cleaner - Veteran owned
+-->
+
 
