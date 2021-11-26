@@ -37,6 +37,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
 ## Footware
   - [Capps](https://uniform.usmadeshoes.com) - Shoes (military, dress, uniform)
   - [SOM Footware](https://www.somfootwear.com)
+  - [Treds](https://www.treds.com) - Boots (rubber, overshoes)
   - [Heartland](https://www.heartlandfootwearinc.com/) - Boots (rubber)
   - [Apropos](https://aproposfootwear.com/) - Shoes (womens)
   - [New Balance*](https://www.newbalance.com/made-in-the-usa/?searchSource=american%20Made) Shoes (athletic). * Not all made in USA, look for "Made in USA collection".
