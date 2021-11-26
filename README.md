@@ -13,7 +13,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
 
 ## Camping / Sporting Goods
   - [Princeton Tec](https://princetontec.com) - Flashlights, Headlamps, Bike lights
-  - [Wike](https://wicycle.com/products/bike-trailers/junior-bicycle-trailer) - Bike trailers, Child tow-behinds
+  - [Wike*](https://wicycle.com/products/bike-trailers/junior-bicycle-trailer) - Bike trailers, Child tow-behinds. * Made in Canada
   - [Saris](https://www.saris.com) - Bike racks and Trainers
   - [1up USA](https://www.1up-usa.com) - Bike racks
   - [Mulibex](https://mulibex.com) - Camping gear - Veteran owned
@@ -39,7 +39,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [SOM Footware](https://www.somfootwear.com)
   - [Heartland](https://www.heartlandfootwearinc.com/) - Boots (rubber)
   - [New Balance*](https://www.newbalance.com/made-in-the-usa/?searchSource=american%20Made) Shoes (athletic). * Not all made in USA, look for "Made in USA collection".
-  - [Thorogood/Weinbrenner](https://www.thorogoodusa.com/made-in-the-usa-boots) - Shoes, boots (work shoes, work boots).  * Look for made in USA. Not sure if all products are made in USA.
+  - [Thorogood/Weinbrenner*](https://www.thorogoodusa.com/made-in-the-usa-boots) - Shoes, boots (work shoes, work boots).  * Look for made in USA. Not sure if all products are made in USA.
  
 ## Furniture
   - [Sauder Woodworking](https://www.sauder.com)
