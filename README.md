@@ -29,15 +29,18 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [Berlin Flyer Wagons](https://premierwagons.com)
   - [Lapp Wagons](https://lappwagons.com/product/wagon-sun-top/)
 
-## Clothing / Footware
+## Clothing
   - [Made in America Sock Company](https://madeinamericasockcompany.com) or [here](https://www.mypillow.com/made-in-america-socks.html)
   - [All American Clothing](https://www.allamericanclothing.com)
   - [The True American Made T-Shirt](https://www.mypillow.com/the-true-american-made-t-shirt.html)
+
+## Footware
   - [Capps](https://uniform.usmadeshoes.com) - Shoes (military, dress, uniform)
   - [SOM Footware](https://www.somfootwear.com)
+  - [Heartland](https://www.heartlandfootwearinc.com/) - Boots (rubber)
   - [New Balance*](https://www.newbalance.com/made-in-the-usa/?searchSource=american%20Made) Shoes (athletic). * Not all made in USA, look for "Made in USA collection".
   - [Thorogood/Weinbrenner](https://www.thorogoodusa.com/made-in-the-usa-boots) - Shoes, boots (work shoes, work boots).  * Look for made in USA. Not sure if all products are made in USA.
-
+ 
 ## Furniture
   - [Sauder Woodworking](https://www.sauder.com)
 
