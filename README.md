@@ -37,6 +37,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
 ## Footware
   - [Capps](https://uniform.usmadeshoes.com) - Shoes (military, dress, uniform)
   - [SOM Footware](https://www.somfootwear.com)
+  - [Oak Street](https://oakstreetbootmakers.com/) - Shoes, boots (boots, oxfords, loafers)
   - [Treds](https://www.treds.com) - Boots (rubber, overshoes)
   - [Heartland](https://www.heartlandfootwearinc.com/) - Boots (rubber)
   - [Apropos](https://aproposfootwear.com/) - Shoes (womens)
