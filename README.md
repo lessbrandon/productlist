@@ -33,6 +33,7 @@ Coming soon... an app to promote small businesses.  Not made in China.
   - [Made in America Sock Company](https://madeinamericasockcompany.com) or [here](https://www.mypillow.com/made-in-america-socks.html)
   - [All American Clothing](https://www.allamericanclothing.com)
   - [The True American Made T-Shirt](https://www.mypillow.com/the-true-american-made-t-shirt.html)
+  - [Capps](https://uniform.usmadeshoes.com) - Shoes (military, dress, uniform)
   - [SOM Footware](https://www.somfootwear.com)
 
 ## Furniture
